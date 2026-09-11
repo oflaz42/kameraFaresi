@@ -1,0 +1,4 @@
+pythonu kurmanız lazım önce kurdukdan sonra el_hareketi_fare_kontrolu.py kayıtlı olduğu yere gidim arama çubuğuna cmd yazın 
+python el_hareketi_fare_kontrolu.py yazınca otomatik olarak başlayacak biraz vakit alabilir 
+
+Hayla geliştirme aşamasında
